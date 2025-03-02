@@ -27,7 +27,7 @@ while True:
         functions.write_todos(todos)
 
     elif user_action.startswith('show'):
-        i=0;
+        i=0
 
         # file = open('files/todos.txt', 'r')
         # todos = file.readlines()
