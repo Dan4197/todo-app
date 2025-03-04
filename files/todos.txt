@@ -1,7 +1,6 @@
 prepare
 anything
 one more
-make soup
 clean
 new tod
 blabla
